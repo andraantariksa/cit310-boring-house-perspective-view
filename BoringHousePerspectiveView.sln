@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BoringHousePerspectiveView", "BoringHousePerspectiveView\BoringHousePerspectiveView.vbproj", "{B0749907-6F6B-4E6D-8256-1A5828D255DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0749907-6F6B-4E6D-8256-1A5828D255DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0749907-6F6B-4E6D-8256-1A5828D255DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0749907-6F6B-4E6D-8256-1A5828D255DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0749907-6F6B-4E6D-8256-1A5828D255DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF8098D5-5CA0-46E7-936F-91D05A9363AF}
+	EndGlobalSection
+EndGlobal
